@@ -1,5 +1,5 @@
 # EXCEL DASHBOARD
-This is six week journey of fellowship At Alphaa ai. In this 6 week journey there are so many things to learn, explore the prospective towards data first approch. How to deal with data, which kind of data, how to find out opportunity, how to test hypothesis for available opportunity, how to communicate data story over a mail. All the work done in microsoft excel.
+This is my six week journey of fellowship At Alphaa ai. In this 6 week journey there are so many things to learn, explore the prospective towards data first approch. How to deal with data, which kind of data, how to find out opportunity, how to test hypothesis for available opportunity, how to communicate data story over a mail. All the work done in microsoft excel.
 
 > Week_O : How to design Interactive dashboard in MICROSOFT EXCEL.
   Workbook : Week0_ExcelDashboard.xlsm
